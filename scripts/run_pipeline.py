@@ -11,4 +11,4 @@ def transform(df):
     return df
 
 def load(df):
-    save_csv(df, 'output/data.csv')
+    save_csv(df, 'outputs/data.csv')
